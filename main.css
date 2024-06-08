@@ -22,11 +22,11 @@ h2 {
 
 p {
     font-family: ;
-    font-size: ;
-    padding: ;
-    margin: ;
-    color: ;
-    background-color: ;
+    font-size: 50px;
+    padding: 100px;
+    margin: auto;
+    color: white ;
+    background-color: black;
     text-align: justify;
 }
 
